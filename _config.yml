@@ -6,14 +6,13 @@ course_semester: "Summer 2024"
 baseurl: "/oxford-royale-math-24" # the subpath of your site, e.g. /blog/
 url: "http://dylanwilbur.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "Oxford Royale"
+schoolurl: "https://www.oxford-royale.com"
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Clark Kerr Campus
+    UC Berkeley
+    California
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
