@@ -19,10 +19,23 @@ Videos:
 Python Day + Calculus and Probability
 
 ### Materials
-[Lec 1](static_files/materials/lec1.py)
-[Lec 2](static_files/materials/lec2.py)
+[Lec 1 code](static_files/materials/lec1.py)
+
+[Lec 2 code](static_files/materials/lec2.py)
+
+[Lec 3 code](static_files/materials/lec3.py)
+
+[Lec 1 pdf](static_files/materials/lec3.pdf)
+
+[Lec 2 pdf](static_files/materials/Lec2.pdf)
+
+[Lec 3 pdf](static_files/materials/lec3.pdf)
+
 [Assignment 1](static_files/materials/ps0.pdf)
+
 [Assignment 2](static_files/materials/ps1.pdf)
+
+
 
 ### In Class Questions
 **Shell vs. Editor**
