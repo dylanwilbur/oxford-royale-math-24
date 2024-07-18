@@ -47,3 +47,5 @@ Calculus and more python
 [**Approximations Notebook**](/static_files/materials/approximations.ipynb)
 
 [**Algorithms Notebook**](/static_files/materials/root3.ipynb)
+
+[https://www.geoguessr.com/challenge/5ffnQ04PwmAL1ADx](https://www.geoguessr.com/challenge/5ffnQ04PwmAL1ADx)
