@@ -43,3 +43,5 @@ Python Day + Calculus and Probability
 Calculus and more python
 
 [**Calculus Questions**](/oxford-royale-math-24/calculus_questions/)
+
+[**Approximations Notebook**](/static_files/materials/approximations.ipynb)
