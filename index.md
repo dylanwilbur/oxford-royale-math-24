@@ -49,3 +49,7 @@ Calculus and more python
 [**Algorithms Notebook**](/static_files/materials/root3.ipynb)
 
 [https://www.geoguessr.com/challenge/5ffnQ04PwmAL1ADx](https://www.geoguessr.com/challenge/5ffnQ04PwmAL1ADx)
+
+[**Manim Tutorial**](https://github.com/ManimCommunity/jupyter_examples)
+
+[**Manim Examples**](https://docs.manim.community/en/stable/examples.html)
