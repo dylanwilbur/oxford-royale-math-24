@@ -45,3 +45,5 @@ Calculus and more python
 [**Calculus Questions**](/oxford-royale-math-24/calculus_questions/)
 
 [**Approximations Notebook**](/static_files/materials/approximations.ipynb)
+
+[**Algorithms Notebook**](/static_files/materials/root3.ipynb)
