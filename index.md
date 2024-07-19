@@ -2,6 +2,8 @@
 layout: home
 ---
 
+dylan.m.w@icloud.com
+
 ## Day 1
 Intro, Reasoning, and Proofs
 
