@@ -56,3 +56,9 @@ Calculus and more python
 
 ## Day 5
 [https://www.geoguessr.com/challenge/GLqU6djtSxznaDi5](https://www.geoguessr.com/challenge/GLqU6djtSxznaDi5)
+
+**Calculus**:
+
+[Problem Set 1](static_files/materials/pset1calculus.pdf)
+[Problem Set 2](static_files/materials/pset2calculus.pdf)
+[Exam 1 Calculus](static_files/materials/exam1calculus.pdf)
