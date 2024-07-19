@@ -55,4 +55,4 @@ Calculus and more python
 [**Manim Examples**](https://docs.manim.community/en/stable/examples.html)
 
 ## Day 5
-(https://www.geoguessr.com/challenge/GLqU6djtSxznaDi5)(https://www.geoguessr.com/challenge/GLqU6djtSxznaDi5)
+[https://www.geoguessr.com/challenge/GLqU6djtSxznaDi5](https://www.geoguessr.com/challenge/GLqU6djtSxznaDi5)
