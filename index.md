@@ -60,5 +60,9 @@ Calculus and more python
 **Calculus**:
 
 [Problem Set 1](static_files/materials/pset1calculus.pdf)
+
 [Problem Set 2](static_files/materials/pset2calculus.pdf)
+
 [Exam 1 Calculus](static_files/materials/exam1calculus.pdf)
+
+[Paul's Notes](https://tutorial.math.lamar.edu)
