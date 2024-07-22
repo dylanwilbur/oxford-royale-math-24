@@ -7,6 +7,16 @@ permalink: /day6/
 links:
   - link: https://www.youtube.com/watch?v=7OLpKqTriio
     name: Epidemic Simulations
+  - link: https://tutorial.math.lamar.edu/Classes/CalcII/SeriesIntro.aspx
+    name: Sequences and Series Reference
+  - link: https://tutorial.math.lamar.edu/Classes/CalcII/Sequences.aspx
+    name: Sequences Definitions
+  - link: https://tutorial.math.lamar.edu/Classes/CalcII/Sequences.aspx
+    name: Sequences Definitions
+  - link: https://tutorial.math.lamar.edu/Classes/CalcII/PowerSeries.aspx
+    name: Power Series
+  - link: https://tutorial.math.lamar.edu/Classes/CalcII/TaylorSeries.aspx
+    name: Taylor Series
 lecture_codes:
   - static_files/materials/day6.ipynb
 ---
