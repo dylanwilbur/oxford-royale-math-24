@@ -24,7 +24,7 @@ lecture_codes:
 ---
 
 **Register**:
-https://simons.berkeley.edu/web-registration-simons-institute-summer-2024-public-lectures
+[https://simons.berkeley.edu/web-registration-simons-institute-summer-2024-public-lectures](https://simons.berkeley.edu/web-registration-simons-institute-summer-2024-public-lectures)
 
 ## Session 1: Sequences and Series
 - Topic 18 in Student Handbook and Workbook
