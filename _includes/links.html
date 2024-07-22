@@ -1,0 +1,36 @@
+{% if page.lecture_codes %}
+  <h3>Lecture Codes</h3>
+  <ul>
+    {% for file in page.lecture_codes %}
+      <li><i class="fas fa-file-code"></i> <a href="{{ file | absolute_url }}">{{ file | split: '/' | last | split: '.' | first }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if page.lecture_pdfs %}
+  <h3>Lecture PDFs</h3>
+  <ul>
+    {% for file in page.lecture_pdfs %}
+      <li><i class="fas fa-file-pdf"></i> <a href="{{ file | absolute_url }}">{{ file | split: '/' | last | split: '.' | first }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if page.assignments %}
+  <h3>Assignments</h3>
+  <ul>
+    {% for file in page.assignments %}
+      <li><i class="fas fa-file-alt"></i> <a href="{{ file | absolute_url }}">{{ file | split: '/' | last | split: '.' | first }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if page.links %}
+  <h3>Links</h3>
+  <ul>
+    {% for file in page.links %}
+      <li><i class="fas fa-file-alt"></i> <a href="{{ file['link'] }}">{{file['name']}}</a></li>
+    {% endfor %}
+  </ul>
+
+{% endif %}

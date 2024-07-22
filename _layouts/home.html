@@ -14,4 +14,14 @@ layout: default
     
     {{ content }}
 
+  <ul id="archive">
+    {% for day in site.days %}
+      <li class="archiveposturl" style="background: transparent;">
+        <h2><a href="/oxford-royale-math-24/{{ day.url }}">{{ day.title }}</a></h2>
+        <p>{{ day.description }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+
 </div>

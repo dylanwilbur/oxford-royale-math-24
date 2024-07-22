@@ -507,3 +507,20 @@ a.tosu {
         border-bottom: 0 !important;
     }
 }
+
+/* Custom styling for the reference materials */
+.reference-materials-list {
+    list-style-type: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+}
+
+.reference-materials-list li {
+    margin: 0.5em 0; /* Space between items */
+    display: flex;
+    align-items: center;
+}
+
+.reference-materials-list li i {
+    margin-right: 0.5em; /* Space between icon and text */
+    color: #007bff; /* Change icon color */
+}

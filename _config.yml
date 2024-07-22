@@ -39,6 +39,8 @@ collections:
         output: true
     assignments:
         output: true
+    days:
+        output: true
     announcements:
         output: false
 
