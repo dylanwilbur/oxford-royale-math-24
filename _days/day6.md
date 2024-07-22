@@ -7,6 +7,8 @@ permalink: /day6/
 links:
   - link: https://www.youtube.com/watch?v=7OLpKqTriio
     name: Epidemic Simulations
+lecture_codes:
+  - static_files/materials/day6.ipynb
 ---
 
 ## Session 1: Sequences and Series
