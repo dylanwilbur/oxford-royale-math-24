@@ -11,6 +11,8 @@ links:
 
 ## Session 1: Sequences and Series
 - Topic 18 in Student Handbook and Workbook
+- Register for event [here](https://simons.berkeley.edu/web-registration-simons-institute-summer-2024-public-lectures)
+- Geoguessr link [here](https://www.geoguessr.com/challenge/OaVuOYU2JYpvFaKL)
 
 **Agenda**
 
