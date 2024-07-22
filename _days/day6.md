@@ -17,9 +17,14 @@ links:
     name: Power Series
   - link: https://tutorial.math.lamar.edu/Classes/CalcII/TaylorSeries.aspx
     name: Taylor Series
+  - link: https://uclaacm.github.io/gradient-descent-visualiser/#playground
+    name: Gradient Descent Playground
 lecture_codes:
   - static_files/materials/day6.ipynb
 ---
+
+**Register**:
+https://simons.berkeley.edu/web-registration-simons-institute-summer-2024-public-lectures
 
 ## Session 1: Sequences and Series
 - Topic 18 in Student Handbook and Workbook
