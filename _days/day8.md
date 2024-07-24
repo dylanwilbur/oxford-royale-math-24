@@ -8,7 +8,8 @@ lecture_pdfs:
 links:
   - link: https://seeing-theory.brown.edu/basic-probability/index.html
     name: "Probability Theory"
-lecture_pdfs:
+  - link: https://brilliant.org/wiki/modular-arithmetic/
+    name: Modular Arithmetic
 ---
 
 ```python
