@@ -19,5 +19,20 @@ encrypted_message = "IQFTQBQABXQARFTQGZUFQPEFMFQEUZADPQDFARADYMYADQBQDRQOFGZUAZQ
 
 vignere_message = "SMFJWTYIKWAVKBUGAVQYAAUCHTSKCPGKJNECJKRYAAUCHTSKCPGQJBUGOMNUWVQQYMNPOERUDIYNBQTJPEVVDOEQSQAIYWAHELRPYMNPZOEQSQAIOBEGJOGJEVGJAIVTSMFJWTYFANRPZWHTEAYCJLJJWBRXAZGJAKBUPUNAXMJGOPNNHNVIDBBPPPRDAIPJAAJGOPNNHNVIDBBPPPRNWVQKJOTTKCAFOERUDIYNBQTJPQAVDMSKATQUWVQKJBUGOBEGABFYAAUCHTSKCPGKJBUGDQYNOERUDIYNJMIGNAHTNMAFAZ"
 
+def decrypt_caesar(string, key):
+    crypted = ''
+    for i in string:
+        crypted += tochar((tonum(i) - key) % 26)
+    return crypted
+
+def decrypt_vig(string, key):
+    key = clean_string(key)
+    string = clean_string(string)
+    crypted = ''
+    j = 0
+    for i in string:
+        crypted += tochar((tonum(i) - tonum(key[j % len(key)])) % 26)
+        j += 1
+    return crypted
 
 ```
