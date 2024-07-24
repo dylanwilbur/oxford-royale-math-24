@@ -15,4 +15,6 @@ dylan.m.w + [@] + icloud.com
 
 [Geoguessr Challenge 4](https://www.geoguessr.com/challenge/tIQpjhiCwOQddjy1)
 
+[Geoguessr Challenge 5](https://www.geoguessr.com/challenge/7qAZ1oLKE92LJMss)
+
 Testing adjustments
