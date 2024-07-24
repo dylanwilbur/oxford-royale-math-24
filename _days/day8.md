@@ -26,8 +26,6 @@ def decrypt_caesar(string, key):
     return crypted
 
 def decrypt_vig(string, key):
-    key = clean_string(key)
-    string = clean_string(string)
     crypted = ''
     j = 0
     for i in string:
