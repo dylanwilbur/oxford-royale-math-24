@@ -21,6 +21,9 @@ links:
     name: Gradient Descent Playground
 lecture_codes:
   - static_files/materials/day6.ipynb
+lecture_pdfs:
+  - static_files/materials/MLWS1.pdf
+  - static_files/materials/MLWS3.pdf
 ---
 
 **Register**:
@@ -62,3 +65,9 @@ Quick lecture on:
 - Modeling and Predictions from data
 - Difference between modelling and machine learning
 - More code examples and challenges
+- Gradient descent and linear regression
+- Reference slides for machine learning is included in the lecture pdfs below
+
+
+# Later that day:
+We visited a talk by Professor Jordan Ellenberg, titled 'What does Machine Learning Have to Offer Mathematics?'. [Information for this lecture can be found here](https://simons.berkeley.edu/events/what-does-machine-learning-have-offer-mathematics-theoretically-speaking)
